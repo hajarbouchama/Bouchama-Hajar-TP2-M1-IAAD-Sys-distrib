@@ -1,4 +1,5 @@
 Enoncé : 
+
     Vidéo à utiliser comme ressource principale : https://www.youtube.com/watch?v=cz3p4y7tUEs
     1. Installer IntelliJ Ultimate
     2. Créer un projet Spring Initializer avec les dépendances JPA, H2, Spring Web et Lombock
@@ -22,4 +23,5 @@ Enoncé :
     https://www.youtube.com/watch?v=Kfv_7m8INlU
     https://www.youtube.com/watch?v=s6p2dE3qrsU
 
+Vous trouverez ci-joint le lien du rapport detaillé de ce Tp : 
 https://github.com/hajarbouchama/Bouchama-Hajar-TP2-M1-IAAD-Sys-distrib/blob/master/Rapport-TP2_Bouchama-Hajar_M1IAAD.pdf
